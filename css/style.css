@@ -1,0 +1,58 @@
+.elementos img
+{
+    border: 200%;
+}
+
+
+#idInformación
+{
+    background-color: rgb(165, 241, 235);
+}
+#idInscripciones 
+{
+    background-color: rgb(233, 186, 193)
+}
+#idHorario
+{
+   background-color: rgb(222, 107, 233);
+}
+#idActuaciones
+{
+   background-color: rgb(167, 224, 167);
+}
+#idUbicación
+{
+    background-color: rgb(243, 214, 132);
+}
+
+#idmenu
+{
+    position:fixed;
+    top:150px;
+    right: 150px;
+    background: aquamarine;
+}
+
+#idmenu ul li
+{
+    display: inline;
+    margin: right;
+}
+#idmenu ul li a 
+{
+    font-size: 20px; 
+    font-family: serif;
+    color: rgb(16, 20, 241);
+    background-color: rgb(175, 203, 240);
+    text-decoration: none; 
+    padding: 30px;
+}
+
+#idmenu ul li a:hover
+{
+    background-color: rgb(190, 238, 245);
+    margin-top: -2;
+    scroll-padding-right: 12px;
+    border-radius: 100%;
+}
+
